@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -88,7 +88,7 @@
         .hospital-english {
             font-size: 22px;
             font-weight: bold;
-            color: #000000;
+            color: #f90000;
             margin-top: 5px;
             line-height: 1.2;
         }
