@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hospital Bill Generator</title>
+    <title>Ibn Sina Hospital Bill Generator</title>
     <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
     <style>
@@ -88,7 +88,7 @@
         .hospital-english {
             font-size: 22px;
             font-weight: bold;
-            color: #f90000;
+            color: #dd0000;
             margin-top: 5px;
             line-height: 1.2;
         }
